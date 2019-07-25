@@ -12,7 +12,7 @@ https://awesomedevconnector.herokuapp.com/
 
 REACT_APP_GITHUB_CLIENT_ID "", //  Github register a new OAuth application and add clientId in here
 REACT_APP_GITHUB_CLIENT_SECRET "" // Github register a new OAuth application and add clientSecret in here
-}
+
 ```
 2. Go to your terminal and run the following command:
 ```
