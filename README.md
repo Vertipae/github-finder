@@ -3,7 +3,6 @@
 Implemented with hooks (awesome) and context.
 With this application you can search GitHub users and see their repos.
 
-https://awesomedevconnector.herokuapp.com/
 
 ### Development Environment:
 
